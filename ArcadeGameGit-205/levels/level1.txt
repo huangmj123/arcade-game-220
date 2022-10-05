@@ -1,0 +1,13 @@
+Astronaut_Position,100,100
+Platform_Position,150,300,200
+Platform_Position,500,500,200
+Platform_Position,550,75,75
+EnemyOne_Position,200,300
+EnemyTwo_Position,1000,150
+Rocket_Position,50,500
+Rocket_Piece_Position,300,260,
+Fuel_Position,500,460
+Fuel_Position,600,460
+Fuel_Position,225,260
+Valuable_Resource_Position,585,45
+Part_Cap,1

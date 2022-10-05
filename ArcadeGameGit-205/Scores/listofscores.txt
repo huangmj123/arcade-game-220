@@ -1,0 +1,39 @@
+Michael Huang,10500
+sample first,9000
+KS,850
+,800
+Joshua Mestemacher,750
+sample second,450
+me,400
+AM,300
+null,200
+KS,150
+KS,150
+AM,100
+Jm,100
+sample score,100
+sample score,50
+KS,-50
+KS,-50
+KS,-100
+KS,-100
+AM,-100
+Happiness,-100
+KS,-200
+KS,-250
+KS,-250
+KS,-300
+KS,-300
+KS,-300
+KS,-300
+KS,-300
+null,-300
+AM,-300
+null,-300
+sfd,-300
+null,-300
+Happiness,-300
+null,-300
+Jo m,-300
+sample score,-300
+sample last,-300
